@@ -2,7 +2,22 @@
   "name": "sweet-tools",
   "version": "1.0.0",
   "description": "Useful JS tools/functions to make testing and developing any JS/JSX project quick & easy (aka: SWEET!)",
-  "keywords": [
+  "homepage": "https://github.com/cglina/sweet-tools-js#readme",
+  "bugs": {
+    "url": "https://github.com/cglina/sweet-tools-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cglina/sweet-tools-js.git"
+  },
+  "license": "ISC",
+  "author": "cglina",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+    "keywords": [
     "js",
     "jsx",
     "basic",
@@ -23,20 +38,5 @@
     "sweet-native",
     "sweet-n-native",
     "cglina"
-  ],
-  "homepage": "https://github.com/cglina/sweet-tools-js#readme",
-  "bugs": {
-    "url": "https://github.com/cglina/sweet-tools-js/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cglina/sweet-tools-js.git"
-  },
-  "license": "ISC",
-  "author": "cglina",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
-  }
+  ]
 }
